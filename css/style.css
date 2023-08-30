@@ -83,18 +83,31 @@ h4,a,span{
   border-radius: 5px;
 }
 
+.my_button:hover{
+  background-color: white;
+  color: #1abc9c;
+}
+
 /* *****************************************CONTACT */
 .my_input{
   border-top: 0;
   border-left: 0;
   border-right: 0;
   border-radius: 0;
-  padding: 0;
+  padding: 10px 0;
+}
+
+.my_input::placeholder{
   color: #2c3e50;
 }
 
-.big_cont{
-  height: 170px;
+.my_btn {
+  background-color: #1abc9c;
+  border: none;
+}
+
+.my_btn:hover {
+  background-color: #1abc9cd7;
 }
 
 /* ******************************************************************** FOOTER */
