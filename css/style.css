@@ -119,6 +119,16 @@ h4,a,span{
   color: white;
 }
 
+.my_color{
+  color: #1abc9c;
+}
+
+.my_br{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
 /* **************************************LEGAL */
 .copyright{
   background-color: #2c3e50;
