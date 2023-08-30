@@ -77,6 +77,12 @@ h4,a,span{
   margin: 0 auto;
 }
 
+.my_button{
+  border: 1px solid white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
 /* *****************************************CONTACT */
 .my_input{
   border-top: 0;
