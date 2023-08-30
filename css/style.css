@@ -36,12 +36,26 @@ h4,a{
 
 /*********************************************************************** MAIN */
 
+.my_bar{
+  height: 3px;
+  width: 10%;
+  background-color: white;
+  border-radius: 3px;
+}
+
+.fa-star{
+  font-size: 1.2rem;
+}
 
 /* *******************************************JUMBO */
 
 .jumbo{
   background-color: #1abc9c;
   color: white;
+}
+
+.div_img img{
+  height: 250px;
 }
 
 /* *******************************************ABOUT */
