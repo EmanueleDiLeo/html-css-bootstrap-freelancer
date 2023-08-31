@@ -26,6 +26,18 @@ header{
   border-radius: 3px;
 }
 
+header a:hover{
+  color: #1abc9c;
+}
+
+header span{
+  color: #71757a;
+}
+
+.header_bars:hover{
+  background-color: white;
+}
+
 h4,a,span{
   color: white;
 }
@@ -52,6 +64,7 @@ h4,a,span{
 .jumbo{
   background-color: #1abc9c;
   color: white;
+  margin-top: 80px;
 }
 
 .div_img img{
